@@ -109,6 +109,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Scripts/
+share/
+Lib/
+Include/
+*.cfg
 
 # Spyder project settings
 .spyderproject
@@ -129,3 +134,4 @@ dmypy.json
 .pyre/
 *.jupyterlab-workspace
 .*
+.*/
